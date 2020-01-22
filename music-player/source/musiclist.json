@@ -1,0 +1,101 @@
+[
+  {
+    "name": "素颜",
+    "singer": "许嵩/何曼婷",
+    "album": "素颜",
+    "time": "04:01",
+    "link_url":"../source/素颜.mp3" ,
+    "cover": "../source/素颜.jpg",
+    "link_lrc": "../source/素颜.txt"
+  },
+  {
+    "name": "七里香",
+    "singer": "周杰伦",
+    "album": "七里香",
+    "time": "04:59",
+    "link_url":"../source/七里香.flac" ,
+    "cover": "../source/七里香.jpg",
+    "link_lrc": "../source/七里香.txt"
+  },
+  {
+    "name": "晴天",
+    "singer": "周杰伦",
+    "album": "叶惠美",
+    "time": "04:29",
+    "link_url":"../source/晴天.flac" ,
+    "cover": "../source/叶惠美.jpg",
+    "link_lrc": "../source/晴天.txt"
+  },
+  {
+    "name": "安静",
+    "singer": "周杰伦",
+    "album": "范特西",
+    "time": "05:34",
+    "link_url":"../source/安静.flac" ,
+    "cover": "../source/范特西.jpg",
+    "link_lrc": "../source/安静.txt"
+  },
+  {
+    "name": "说好的幸福呢",
+    "singer": "周杰伦",
+    "album": "魔杰座",
+    "time": "04:16",
+    "link_url":"../source/说好的幸福呢.flac" ,
+    "cover": "../source/魔杰座.jpg",
+    "link_lrc": "../source/说好的幸福呢.txt"
+  },
+  {
+    "name": "如果当时",
+    "singer": "许嵩",
+    "album": "自定义",
+    "time": "05:16",
+    "link_url":"../source/如果当时.flac" ,
+    "cover": "../source/自定义.jpg",
+    "link_lrc": "../source/如果当时.txt"
+  },
+  {
+    "name": "一路向北",
+    "singer": "周杰伦",
+    "album": "J III MP3 Player",
+    "time": "04:55",
+    "link_url":"../source/一路向北.flac" ,
+    "cover": "../source/J III MP3 Player.jpg",
+    "link_lrc": "../source/一路向北.txt"
+  },
+  {
+    "name": "The Hills",
+    "singer": "The Weeknd",
+    "album": "Beauty Behind The Madness",
+    "time": "04:02",
+    "link_url":"../source/The Hills.flac" ,
+    "cover": "../source/Beauty Behind The Madness.jpg",
+    "link_lrc": "../source/The Hills.txt"
+  },
+  {
+    "name": "庐州月",
+    "singer": "许嵩",
+    "album": "寻雾启示",
+    "time": "04:15",
+    "link_url":"../source/庐州月.flac" ,
+    "cover": "../source/寻雾启示.jpg",
+    "link_lrc": "../source/庐州月.txt"
+  },
+  {
+    "name": "告白气球",
+    "singer": "周杰伦",
+    "album": "周杰伦的床边故事",
+    "time": "03:35",
+    "link_url":"../source/告白气球.flac" ,
+    "cover": "../source/周杰伦的床边故事.jpg",
+    "link_lrc": "../source/告白气球.txt"
+  },
+  {
+    "name": "等你下课",
+    "singer": "周杰伦",
+    "album": "等你下课",
+    "time": "04:30",
+    "link_url":"../source/等你下课.flac" ,
+    "cover": "../source/等你下课.jpg",
+    "link_lrc": "../source/等你下课.txt"
+  }
+]
